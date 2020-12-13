@@ -1,5 +1,7 @@
 # UFOs
 
+# UFOs
+
 Module 11 | Assignment - JavaScript and DOM Manipulation
 
 
@@ -17,13 +19,15 @@ Using the UFO dataset provided in the form of an array of JavaScript objects, wr
 Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-Search criteria: datetime
-Index.html
-app,js
-data.js
-style.css
+Dymanic Filtered UFO page: 
+Search Criteria: datetime
+Index.html - https://github.com/SoonaBritney/UFOs/blob/main/index.html
+app.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/app.js
+data.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/data.js
+style.css - https://github.com/SoonaBritney/UFOs/blob/main/static/css/style.css
+image - https://github.com/SoonaBritney/UFOs/blob/main/static/images/nasa.jpg
 
 
 
 Conclsion:
-Bassed on the filter, we could search the UFOs data accortingly.
+Bassed on the filter, we could search the UFOs data accortingly usign JavaScript and D3.
