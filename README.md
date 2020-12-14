@@ -18,6 +18,7 @@ Use a date form in your HTML document and write JavaScript code that will listen
 
 (1) Dynamically Filtered UFO page: 
 Search Criteria: datetime
+Search Results Screenshot - https://github.com/SoonaBritney/UFOs/blob/main/Capture_dynamic_search.PNG
 Index.html - https://github.com/SoonaBritney/UFOs/blob/main/index.html
 app.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/app.js
 data.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/data.js
@@ -26,6 +27,7 @@ image - https://github.com/SoonaBritney/UFOs/blob/main/static/images/nasa.jpg
 
 (2)Search by Button (multi search criteria)
 Search Criteria: datetime. city, state, county, shape
+Search Results Screenshot - https://github.com/SoonaBritney/UFOs/blob/main/Capture_search_by_button.PNG
 index_button html - https://github.com/SoonaBritney/UFOs/blob/main/index_button.html
 app js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/app_button.js
 data.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/data.js
