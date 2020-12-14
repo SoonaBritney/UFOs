@@ -16,7 +16,7 @@ Using the UFO dataset provided in the form of an array of JavaScript objects, wr
 Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-Dynamically Filtered UFO page: 
+(1) Dynamically Filtered UFO page: 
 Search Criteria: datetime
 Index.html - https://github.com/SoonaBritney/UFOs/blob/main/index.html
 app.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/app.js
@@ -24,6 +24,16 @@ data.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/data.js
 style.css - https://github.com/SoonaBritney/UFOs/blob/main/static/css/style.css
 image - https://github.com/SoonaBritney/UFOs/blob/main/static/images/nasa.jpg
 
+(2)Search by Button (multi search criteria)
+Search Criteria: datetime. city, state, county, shape
+index_button html - https://github.com/SoonaBritney/UFOs/blob/main/index_button.html
+app js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/app_button.js
+data.js - https://github.com/SoonaBritney/UFOs/blob/main/static/js/data.js
+style.css - https://github.com/SoonaBritney/UFOs/blob/main/static/css/style.css
+image - image - https://github.com/SoonaBritney/UFOs/blob/main/static/images/nasa.jpg
+
 
 3. Conclsion:
-Based on the filter, we could search the UFOs data page using JavaScript and D3.
+We can create the UFO search page using D3, snd javascript without any other tools in 2 ways.
+1) seslect search criteria, and the data is dynamically refreshed.
+2) select search criteria, and then click button 
